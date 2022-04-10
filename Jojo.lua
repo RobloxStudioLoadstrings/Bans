@@ -1,1 +1,1 @@
-{"Ghakilz"}
+local cu = {"Ghakilz"}
